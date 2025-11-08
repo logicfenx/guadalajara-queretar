@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/guadalajara-queretar",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a guadalajara-queretar",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/guadalajara-queretar.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.info/es/guadalajara-queretaro/"
+    },
+    "homepage": "https://www.stockbitcoin.info/es/guadalajara-queretaro/"
+}
